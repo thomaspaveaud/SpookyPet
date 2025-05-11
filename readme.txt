@@ -9,6 +9,7 @@ Contenu du projet :
 
 pour compiler il suffit d’écrire  : “make” 
 puis d'appeler l’executable .\chenyl
+et vous aurait aussi la commande  :"make clean"
 
 et pour l’utilisation du code tout sera indiqué dans le terminal.
 
